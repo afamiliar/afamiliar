@@ -25,4 +25,3 @@ Real-time diagnostics and AI/ML-based analytics in healthcare is currently met w
 
 <a href="http://www.github.com/afamiliar"><img src="https://github-readme-stats.vercel.app/api?username=afamiliar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="afamiliar's GitHub stats" /></a>
 
-<a href="https://github.com/afamiliar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afamiliar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
